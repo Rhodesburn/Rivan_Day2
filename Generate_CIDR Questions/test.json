@@ -3,9 +3,9 @@
         {
             "1": {
                 "cidr": "/3",
-                "subnet_mask": "___.___.___.___",
-                "rivan_format": "(Octet, i)",
-                "wildcard": "___.___.___.___",
+                "subnet_mask": "224.0.0.0",
+                "rivan_format": "(1st,32i)",
+                "wildcard": "1.0.0.x",
                 "binary_format": "00000000 . 00000000 . 00000000 . 00000000"
             }
         },
