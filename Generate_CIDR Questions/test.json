@@ -31,9 +31,9 @@
     [
         {
             "1": {
-                "cidr": "/?",
+                "cidr": "/22",
                 "subnet_mask": "255.255.252.0",
-                "rivan_format": "(Octet, i)",
+                "rivan_format": "(3rd, 4i)",
                 "wildcard": "___.___.___.___",
                 "binary_format": "00000000 . 00000000 . 00000000 . 00000000"
             }
